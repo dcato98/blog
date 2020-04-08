@@ -5,8 +5,6 @@ categories: [FuturePostPlaceholder]
 permalink: /about/
 ---
 
-# Hello World!
-
 Hi there, I'm David, and welcome to my experimental blogspace. 
 
 I'm currently looking for opportunities to build AI-powered tools as a machine learning engineer (or similar), especially those that aim to improve human communication, connection, learning, and insight. I intend to expand on my goals in a future post.
